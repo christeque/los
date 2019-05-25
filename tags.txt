@@ -1,0 +1,11 @@
+para que la imagen funcione en cualquier dispositivo:
+img: style=”max-width:100%;width:auto;height:auto
+
+
+alinea un texto sobre una imagen:
+line-height:
+
+
+"":hover {
+  filter: blur(px);
+sirve para desenfoque al pasar mouse
